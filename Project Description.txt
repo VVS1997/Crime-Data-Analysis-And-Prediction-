@@ -1,0 +1,19 @@
+Project Title: Crime Rate Analysis using Machine Learning and Spark
+
+Project Description:
+
+This project aims 
+to develop a predictive model that can help law enforcement agencies to 
+identify high crime areas and make informed decisions to prevent crime.
+
+The project will involve collecting crime data from various sources, such 
+as Chicago's open source data.We processed ETL on this Dataset in Spark.
+
+Next, the project will use machine learning algorithms such as clustering, classification,
+ and regression to analyze the data and identify patterns and trends in crime rates. The project
+ will use Apache Spark, a distributed computing system, to analyze large datasets efficiently.
+
+
+The project will also include data visualization techniques to present the analysis results 
+in an intuitive and easy-to-understand format. This will help law enforcement agencies to quickly identify
+ crime hotspots and take proactive measures to prevent crimes.
